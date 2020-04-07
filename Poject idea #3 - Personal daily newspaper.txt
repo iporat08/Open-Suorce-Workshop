@@ -1,0 +1,2 @@
+An Android app which will gather the user's favorite web context into one page.
+The context may include articles\ posts from favorite websites, social media pages, specific Utube Channels and so on – whether user defined or ML deduced.

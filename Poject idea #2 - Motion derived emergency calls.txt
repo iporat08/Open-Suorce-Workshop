@@ -1,0 +1,3 @@
+An android app which will enable to perform emergency calls (to the police, magen david adom etc. or pre-defined numbers such as close relatives) using device-motion alone.
+
+The idea is that this method could save precious time and aid, for example, old people in time of distress.
